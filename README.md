@@ -11,3 +11,16 @@
 * **Dependency inversion principle** - High-level modules should not depend on low-level modules. Both should depend on abstractions. Abstractions should not depend upon details. Details should depend upon abstractions.
 
 
+![Image description](https://devx.blog/uploads/programming/intro.png)
+
+is an acronym for the first five object-oriented design(OOD) principles by Robert C. Martin, popularly known as [Uncle Bob](https://en.wikipedia.org/wiki/Robert_C._Martin).
+
+These principles, when combined together,
+make it easy for a programmer to develop software that are easy to maintain and extend.
+They also make it easy for developers to avoid code smells, easily refactor code, 
+and are also a part of the agile or adaptive software development.
+
+
+
+
+
